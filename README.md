@@ -8,3 +8,7 @@ We divide the course in two, the first half using [Firebase](https://firebase.go
 ### rtdb
 
 Lesson that consisted on explaining Firebase and the Realtime Database.
+
+### auth
+
+Lesson that consisted on explaining Firebase Authentication and migrating to Firestore.
