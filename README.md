@@ -12,3 +12,7 @@ Lesson that consisted on explaining Firebase and the Realtime Database.
 ### auth
 
 Lesson that consisted on explaining Firebase Authentication and migrating to Firestore.
+
+### cloud-functions
+
+Lesson that consisted on explaining Firebase Cloud Functions and Cloud Storage.
