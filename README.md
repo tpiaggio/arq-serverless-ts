@@ -16,3 +16,7 @@ Lesson that consisted on explaining Firebase Authentication and migrating to Fir
 ### cloud-functions
 
 Lesson that consisted on explaining Firebase Cloud Functions and Cloud Storage.
+
+### security
+
+Lesson that consisted on explaining Firebase Security Rules and the Emulator Suite.
