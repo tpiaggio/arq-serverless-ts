@@ -20,3 +20,7 @@ Lesson that consisted on explaining Firebase Cloud Functions and Cloud Storage.
 ### security
 
 Lesson that consisted on explaining Firebase Security Rules and the Emulator Suite.
+
+### genkit
+
+Lesson that consisted on explaining Firebase Genkit and how to integrate with Gemini.
